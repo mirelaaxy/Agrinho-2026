@@ -75,6 +75,7 @@ section h2{
     padding:30px;
     max-width:900px;
     margin:auto;
+    text-align: center;
 }
 
 .gaia-box p{
@@ -96,7 +97,7 @@ section h2{
     border:1px solid rgba(255,255,255,0.1);
     border-radius:20px;
     padding:30px;
-    text-align:center;
+    text-align: center;
     transition:0.3s;
     box-shadow: 0 0 20px rgba(255, 213, 79, 0.08);
 }
@@ -215,6 +216,7 @@ border-radius: 20px;
 
 padding: 30px;
 
+text-align: center;
 
 }
 
@@ -229,6 +231,7 @@ gap: 25px;
 
 padding: 60px 10%;
 
+text-align: center;
 
 }
 
@@ -243,6 +246,7 @@ padding: 25px;
 
 transition: .3s;
 
+text-align: center;
 
 }
 
