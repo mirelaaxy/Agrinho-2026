@@ -803,3 +803,69 @@ html {
     transform: translateY(-2px);
 
 }
+
+/* ==========================
+   RESPONSIVIDADE MOBILE
+========================== */
+
+@media (max-width: 768px) {
+
+    .hero {
+        padding: 15px;
+    }
+
+    .portal-banner {
+
+    padding: 80px 20px 50px;
+
+}
+
+    .hero-content h1 {
+        font-size: 1.8rem;
+        line-height: 1.2;
+    }
+
+    .portal-banner h1 {
+
+    font-size: 1.8rem;
+
+}
+
+    .slogan {
+        font-size: 1rem;
+        padding: 0 10px;
+    }
+
+    section {
+        padding: 50px 5%;
+    }
+
+    section h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .cards-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .card {
+        padding: 25px;
+    }
+
+    .card h3 {
+        font-size: 1.1rem;
+    }
+
+    .gaia-img {
+        width: 180px;
+        max-width: 100%;
+    }
+
+    .arvore-gaia {
+        width: 250px;
+        max-width: 100%;
+    }
+
+}
