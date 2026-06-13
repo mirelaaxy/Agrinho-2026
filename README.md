@@ -33,7 +33,7 @@ O repositório está organizado de forma limpa e padronizada para facilitar a av
 │   └── style.css           # Folha de Estilos Geral (Centralizada, sem CSS inline)
 ├── js/
 │   └── script.js           # Lógica de Interatividade e Efeito de Transição
-├── arquivos/
+├── assets/
 │   └── img/                # Banco de Imagens e Recursos Visuais Utilizados
 └── pages/                  # Portais Secundários de Conhecimento
     ├── agro-futuro.html    # Inovação e Tecnologias no Campo
